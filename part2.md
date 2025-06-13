@@ -32,7 +32,7 @@ Now that you have a flashing red LED lets add one of the neopixels
 - Save and the copy/paste to ‘code.py’  
   ![First Code 2](firstcode2.jpg)
 - Save ‘code.py’
-- You should now see the first neopixel blinking red as well as the red LED
+- You should now see the first neopixel blinking green as well as the red LED
 
 #### Furthuring Your Knowledge
 - Note the values being assigned to the first (0) neopixel  
@@ -40,7 +40,7 @@ Now that you have a flashing red LED lets add one of the neopixels
 - This is called a tuple in Python and will be discussed in a later chapter
   - However! The three numbers inside the parentheses are RGB values in that order!
   - The values range from 0 to 255 for each color
-- Change the color values for the first neopixel to something other than red
+- Change the color values for the first neopixel to something other than green
 - Add another neopixel so that you will have three flashing lights
   - Red LED, the first neopixel and then finally the one you choose
   - The color of the second neopixel should be different from the first
